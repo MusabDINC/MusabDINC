@@ -1,16 +1,21 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Muhammed Musab DİNÇ" src="dark.svg">
+</picture>
 
-<!--
-**MusabDINC/MusabDINC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_logo.svg">
+  <img alt="MM Logo" src="dark_logo.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,cs,cpp,git,linux&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,cs,cpp,git,linux&theme=light">
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,cs,cpp,git,linux&theme=dark">
+</picture>
